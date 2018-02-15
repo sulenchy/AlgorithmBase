@@ -4,14 +4,7 @@
 function functionRunner(func,funcArg ){
     return func(funcArg);
   }
-  
-  
-  
-  
-  
-  
-  
-  
+
   //EXAMPLE TEST
   
   function squareNum(x) { 
